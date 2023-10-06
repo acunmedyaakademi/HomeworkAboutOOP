@@ -1,0 +1,15 @@
+/Users/Lenovo/Desktop/Debug/Debug/obj/Debug/net7.0/Debug.csproj.AssemblyReference.cache
+/Users/Lenovo/Desktop/Debug/Debug/obj/Debug/net7.0/Debug.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Lenovo/Desktop/Debug/Debug/obj/Debug/net7.0/Debug.AssemblyInfoInputs.cache
+/Users/Lenovo/Desktop/Debug/Debug/obj/Debug/net7.0/Debug.AssemblyInfo.cs
+/Users/Lenovo/Desktop/Debug/Debug/obj/Debug/net7.0/Debug.csproj.CoreCompileInputs.cache
+/Users/Lenovo/Desktop/Debug/Debug/bin/Debug/net7.0/Debug
+/Users/Lenovo/Desktop/Debug/Debug/bin/Debug/net7.0/Debug.deps.json
+/Users/Lenovo/Desktop/Debug/Debug/bin/Debug/net7.0/Debug.runtimeconfig.json
+/Users/Lenovo/Desktop/Debug/Debug/bin/Debug/net7.0/Debug.dll
+/Users/Lenovo/Desktop/Debug/Debug/bin/Debug/net7.0/Debug.pdb
+/Users/Lenovo/Desktop/Debug/Debug/obj/Debug/net7.0/Debug.dll
+/Users/Lenovo/Desktop/Debug/Debug/obj/Debug/net7.0/refint/Debug.dll
+/Users/Lenovo/Desktop/Debug/Debug/obj/Debug/net7.0/Debug.pdb
+/Users/Lenovo/Desktop/Debug/Debug/obj/Debug/net7.0/Debug.genruntimeconfig.cache
+/Users/Lenovo/Desktop/Debug/Debug/obj/Debug/net7.0/ref/Debug.dll

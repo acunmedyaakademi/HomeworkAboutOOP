@@ -1,0 +1,30 @@
+/Users/Lenovo/Desktop/StringFonksiyonları/StringFonksiyonları/bin/Debug/net7.0/StringFonksiyonları
+/Users/Lenovo/Desktop/StringFonksiyonları/StringFonksiyonları/bin/Debug/net7.0/StringFonksiyonları.deps.json
+/Users/Lenovo/Desktop/StringFonksiyonları/StringFonksiyonları/bin/Debug/net7.0/StringFonksiyonları.runtimeconfig.json
+/Users/Lenovo/Desktop/StringFonksiyonları/StringFonksiyonları/bin/Debug/net7.0/StringFonksiyonları.dll
+/Users/Lenovo/Desktop/StringFonksiyonları/StringFonksiyonları/bin/Debug/net7.0/StringFonksiyonları.pdb
+/Users/Lenovo/Desktop/StringFonksiyonları/StringFonksiyonları/obj/Debug/net7.0/StringFonksiyonları.csproj.AssemblyReference.cache
+/Users/Lenovo/Desktop/StringFonksiyonları/StringFonksiyonları/obj/Debug/net7.0/StringFonksiyonları.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Lenovo/Desktop/StringFonksiyonları/StringFonksiyonları/obj/Debug/net7.0/StringFonksiyonları.AssemblyInfoInputs.cache
+/Users/Lenovo/Desktop/StringFonksiyonları/StringFonksiyonları/obj/Debug/net7.0/StringFonksiyonları.AssemblyInfo.cs
+/Users/Lenovo/Desktop/StringFonksiyonları/StringFonksiyonları/obj/Debug/net7.0/StringFonksiyonları.csproj.CoreCompileInputs.cache
+/Users/Lenovo/Desktop/StringFonksiyonları/StringFonksiyonları/obj/Debug/net7.0/StringFonksiyonları.dll
+/Users/Lenovo/Desktop/StringFonksiyonları/StringFonksiyonları/obj/Debug/net7.0/refint/StringFonksiyonları.dll
+/Users/Lenovo/Desktop/StringFonksiyonları/StringFonksiyonları/obj/Debug/net7.0/StringFonksiyonları.pdb
+/Users/Lenovo/Desktop/StringFonksiyonları/StringFonksiyonları/obj/Debug/net7.0/StringFonksiyonları.genruntimeconfig.cache
+/Users/Lenovo/Desktop/StringFonksiyonları/StringFonksiyonları/obj/Debug/net7.0/ref/StringFonksiyonları.dll
+/Users/Lenovo/Desktop/Kurs Ödevleri/StringFonksiyonları/StringFonksiyonları/bin/Debug/net7.0/StringFonksiyonları
+/Users/Lenovo/Desktop/Kurs Ödevleri/StringFonksiyonları/StringFonksiyonları/bin/Debug/net7.0/StringFonksiyonları.deps.json
+/Users/Lenovo/Desktop/Kurs Ödevleri/StringFonksiyonları/StringFonksiyonları/bin/Debug/net7.0/StringFonksiyonları.runtimeconfig.json
+/Users/Lenovo/Desktop/Kurs Ödevleri/StringFonksiyonları/StringFonksiyonları/bin/Debug/net7.0/StringFonksiyonları.dll
+/Users/Lenovo/Desktop/Kurs Ödevleri/StringFonksiyonları/StringFonksiyonları/bin/Debug/net7.0/StringFonksiyonları.pdb
+/Users/Lenovo/Desktop/Kurs Ödevleri/StringFonksiyonları/StringFonksiyonları/obj/Debug/net7.0/StringFonksiyonları.csproj.AssemblyReference.cache
+/Users/Lenovo/Desktop/Kurs Ödevleri/StringFonksiyonları/StringFonksiyonları/obj/Debug/net7.0/StringFonksiyonları.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Lenovo/Desktop/Kurs Ödevleri/StringFonksiyonları/StringFonksiyonları/obj/Debug/net7.0/StringFonksiyonları.AssemblyInfoInputs.cache
+/Users/Lenovo/Desktop/Kurs Ödevleri/StringFonksiyonları/StringFonksiyonları/obj/Debug/net7.0/StringFonksiyonları.AssemblyInfo.cs
+/Users/Lenovo/Desktop/Kurs Ödevleri/StringFonksiyonları/StringFonksiyonları/obj/Debug/net7.0/StringFonksiyonları.csproj.CoreCompileInputs.cache
+/Users/Lenovo/Desktop/Kurs Ödevleri/StringFonksiyonları/StringFonksiyonları/obj/Debug/net7.0/StringFonksiyonları.dll
+/Users/Lenovo/Desktop/Kurs Ödevleri/StringFonksiyonları/StringFonksiyonları/obj/Debug/net7.0/refint/StringFonksiyonları.dll
+/Users/Lenovo/Desktop/Kurs Ödevleri/StringFonksiyonları/StringFonksiyonları/obj/Debug/net7.0/StringFonksiyonları.pdb
+/Users/Lenovo/Desktop/Kurs Ödevleri/StringFonksiyonları/StringFonksiyonları/obj/Debug/net7.0/StringFonksiyonları.genruntimeconfig.cache
+/Users/Lenovo/Desktop/Kurs Ödevleri/StringFonksiyonları/StringFonksiyonları/obj/Debug/net7.0/ref/StringFonksiyonları.dll

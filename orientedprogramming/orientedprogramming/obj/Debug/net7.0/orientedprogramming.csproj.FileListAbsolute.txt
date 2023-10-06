@@ -1,0 +1,15 @@
+/Users/Lenovo/Desktop/orientedprogramming/orientedprogramming/bin/Debug/net7.0/orientedprogramming
+/Users/Lenovo/Desktop/orientedprogramming/orientedprogramming/bin/Debug/net7.0/orientedprogramming.deps.json
+/Users/Lenovo/Desktop/orientedprogramming/orientedprogramming/bin/Debug/net7.0/orientedprogramming.runtimeconfig.json
+/Users/Lenovo/Desktop/orientedprogramming/orientedprogramming/bin/Debug/net7.0/orientedprogramming.dll
+/Users/Lenovo/Desktop/orientedprogramming/orientedprogramming/bin/Debug/net7.0/orientedprogramming.pdb
+/Users/Lenovo/Desktop/orientedprogramming/orientedprogramming/obj/Debug/net7.0/orientedprogramming.csproj.AssemblyReference.cache
+/Users/Lenovo/Desktop/orientedprogramming/orientedprogramming/obj/Debug/net7.0/orientedprogramming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Lenovo/Desktop/orientedprogramming/orientedprogramming/obj/Debug/net7.0/orientedprogramming.AssemblyInfoInputs.cache
+/Users/Lenovo/Desktop/orientedprogramming/orientedprogramming/obj/Debug/net7.0/orientedprogramming.AssemblyInfo.cs
+/Users/Lenovo/Desktop/orientedprogramming/orientedprogramming/obj/Debug/net7.0/orientedprogramming.csproj.CoreCompileInputs.cache
+/Users/Lenovo/Desktop/orientedprogramming/orientedprogramming/obj/Debug/net7.0/orientedprogramming.dll
+/Users/Lenovo/Desktop/orientedprogramming/orientedprogramming/obj/Debug/net7.0/refint/orientedprogramming.dll
+/Users/Lenovo/Desktop/orientedprogramming/orientedprogramming/obj/Debug/net7.0/orientedprogramming.pdb
+/Users/Lenovo/Desktop/orientedprogramming/orientedprogramming/obj/Debug/net7.0/orientedprogramming.genruntimeconfig.cache
+/Users/Lenovo/Desktop/orientedprogramming/orientedprogramming/obj/Debug/net7.0/ref/orientedprogramming.dll
